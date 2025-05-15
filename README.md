@@ -34,8 +34,8 @@ Key Insights:
 	•	SQL Inside Python: Used SQL queries embedded within Python (SQLite) for data aggregation, transformation, and performance optimization before visualization.
 
 
-Tableau Dashboard: [View on Tableau Public](https://public.tableau.com/app/profile/vaishnav.chinthakindi/viz/walmarttableau_17457164055560/AnalysisDashboard)
-Python Code: [View Full Python Notebook](Walmart_Project.ipynb)
+Tableau Dashboard: [View on Tableau Public](https://public.tableau.com/views/walmarttableaupublic-1/AnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Python Code: [View Full Python Notebook](https://nbviewer.org/github/VaishnavCh26/Wakmart-Project-Repository/blob/main/Walmart%20project.ipynb)
 
 Summary
 This project demonstrates a complete retail sales and inventory analysis pipeline, covering data querying (SQL), business analysis (Python Pandas), and visual storytelling (Tableau).  
