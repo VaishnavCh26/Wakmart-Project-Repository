@@ -58,8 +58,6 @@ Tools and Technologies Used:
 	•	Tableau Public: For interactive dashboards and storytelling
 	•	Jupyter Notebook: For data preparation, SQL queries, and visualizations
 
-Project Snapshot
-![Dashboard Overview](screenshots/dashboard.png)
 
 Key Insights:
 	•	Monthly Total Quantity Sold: Identified monthly sales trends across different product categories.
